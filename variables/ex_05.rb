@@ -1,0 +1,2 @@
+#Exercise 5
+puts "In the case of the second program, the variable y is defined outside of the scope of the block, but the variable x is defined inside the scope of the block. The varible x does not exist outside of the block, so it will throw an error when tried to be called."
